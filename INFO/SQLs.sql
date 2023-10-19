@@ -10,7 +10,6 @@ CREATE TABLE IF NOT EXISTS clients
   PRIMARY KEY (id)
 );
 
-
 INSERT INTO
 	clients (first_name, last_name, phone)
 VALUES
