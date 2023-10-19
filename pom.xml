@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.app</groupId>
-	<artifactId>Spring-Boot-Web-Cliens</artifactId>
+	<artifactId>Spring-Boot-Web-Client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WebTours</name>
 	<description>Demo project for Spring Boot</description>
